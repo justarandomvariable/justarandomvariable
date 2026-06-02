@@ -1,54 +1,34 @@
-<h1 align="center">Hi, I'm Kriti 👋</h1>
+<h1 align="center">Hi 👋, I'm Kriti Tiwari</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Statistics Graduate
+Statistics Graduate | Data Science & Analytics | Business Intelligence
 </h3>
 
 <p align="center">
-SQL • Python • Power BI • Excel
+Exploring business problems through data, statistics, and analytical reasoning.
 </p>
 
-<p align="center">
-Turning data into actionable business insights.
+<hr>
+
+<h2>👩‍💻 About Me</h2>
+
+<p>
+I'm a Statistics graduate with a strong foundation in probability, data analysis, and quantitative problem-solving.
+
+My interest lies in transforming raw data into meaningful insights that support better business decisions.
+
+Through hands-on projects, I've worked with SQL, Python, Excel, and Power BI to analyze customer behavior, evaluate business performance, identify trends, and uncover opportunities hidden within data.
 </p>
 
----
+<h2>💻 Tech Stack</h2>
 
-## About Me
-
-I'm a Statistics graduate transitioning into Data Analytics.
-
-My interest lies in solving business problems using data, building dashboards, analyzing trends, and translating numbers into decisions.
-
-Currently working on strengthening my skills in:
-
-- SQL
-- Python
-- Power BI
-- Excel
-- Statistics
-- Business Analytics
-
----
-
-## Tech Stack
-
-### Data Analysis
-
-- Python
-- Pandas
-- NumPy
-- Excel
-
-### Databases
-
-- SQL
-
-### Visualization
-
-- Power BI
-
-### Other
-
-- Git
-- GitHub
+<ul>
+<li>SQL</li>
+<li>Python</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>Power BI</li>
+<li>Excel</li>
+<li>Git</li>
+<li>GitHub</li>
+</ul>
