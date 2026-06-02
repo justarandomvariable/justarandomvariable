@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kriti 👋</h1>
 
 <h3 align="center">
-Aspiring Data Analyst | Economics Graduate
+Aspiring Data Analyst | Statistics Graduate
 </h3>
 
 <p align="center">
