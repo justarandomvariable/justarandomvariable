@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kriti 👋</h1>
 
-<!--
-**justarandomvariable/justarandomvariable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Data Analyst | Economics Graduate
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+SQL • Python • Power BI • Excel
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Turning data into actionable business insights.
+</p>
+
+---
+
+## About Me
+
+I'm a Statistics graduate transitioning into Data Analytics.
+
+My interest lies in solving business problems using data, building dashboards, analyzing trends, and translating numbers into decisions.
+
+Currently working on strengthening my skills in:
+
+- SQL
+- Python
+- Power BI
+- Excel
+- Statistics
+- Business Analytics
+
+---
+
+## Tech Stack
+
+### Data Analysis
+
+- Python
+- Pandas
+- NumPy
+- Excel
+
+### Databases
+
+- SQL
+
+### Visualization
+
+- Power BI
+
+### Other
+
+- Git
+- GitHub
