@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kriti Tiwari</h1>
+<h1 align="center"> Kriti Tiwari</h1>
 
 <h3 align="center">
 Statistics Graduate | Data Science & Analytics | Business Intelligence
 </h3>
 
 <p align="center">
-Exploring business problems through data, statistics, and analytical reasoning.
+Turning data into actionable business insights through analytics, statistics, and storytelling.
 </p>
 
 <hr>
@@ -13,11 +13,11 @@ Exploring business problems through data, statistics, and analytical reasoning.
 <h2>👩‍💻 About Me</h2>
 
 <p>
-I'm a Statistics graduate with a strong foundation in probability, data analysis, and quantitative problem-solving.
+My work sits at the intersection of analytics, statistics, and business strategy.
 
-My interest lies in transforming raw data into meaningful insights that support better business decisions.
+I enjoy transforming messy datasets into clear narratives, identifying patterns hidden beneath numbers, and building solutions that help organizations make better decisions.
 
-Through hands-on projects, I've worked with SQL, Python, Excel, and Power BI to analyze customer behavior, evaluate business performance, identify trends, and uncover opportunities hidden within data.
+Through projects spanning consumer intelligence, risk analysis, forecasting, and business dashboards, I've developed a strong foundation in translating data into action.
 </p>
 
 <h2>💻 Tech Stack</h2>
