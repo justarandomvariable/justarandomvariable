@@ -8,6 +8,10 @@ Statistics Graduate | Data Science & Analytics | Business Intelligence
 Turning data into actionable business insights through analytics, statistics, and storytelling.
 </p>
 
+<p align="center">
+<a href="mailto:tiwarikriti2607@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/kritiwari">LinkedIn</a>
+</p>
 <hr>
 
 <h2>👩‍💻 About Me</h2>
